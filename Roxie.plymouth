@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Roxie
+Description=Minimal purple-on-black premium boot theme — drawn wordmark reveal, breathing glow, segmented spinner
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Roxie
+ScriptFile=/usr/share/plymouth/themes/Roxie/Roxie.script
